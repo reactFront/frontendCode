@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.top-section {
+  padding: 20px !important;
+}
+
+.top-left {
+  font-weight: bold !important;
+  color: #151414 !important;
+  background: none !important;
+  border: solid 1px !important;
+  margin-right: 7px;
+
+}
+
+.top-right {
+  color: #fafafa;
+}
+
+.menu-item {
+  background: rgb(255, 149, 89);
+  justify-content: center;
+  display: flex;
+  padding: 54px;
+  font-size: 75px;
+  padding: 30px;
+  color: white;
+  cursor: pointer;
+}
+
+.menu-text {
+  font-size: 18px;
+  text-align: center;
+}
