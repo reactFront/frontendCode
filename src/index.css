@@ -44,3 +44,9 @@ code {
   font-size: 18px;
   text-align: center;
 }
+
+.main-container {
+  padding: top 5%;
+  padding: left 10%;
+  padding-right: 10%;
+}
